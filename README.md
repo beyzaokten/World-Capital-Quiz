@@ -20,3 +20,6 @@ This application allows users to test their knowledge of world capitals through 
 - EJS
 - pg (PostgreSQL client for Node.js)
 - body-parser
+
+![wq](https://github.com/beyzaokten/World-Capital-Quiz/assets/95380183/9371eb92-2e32-4175-9a54-92d10f476982)
+![wq2](https://github.com/beyzaokten/World-Capital-Quiz/assets/95380183/fba3ce3b-ff22-4bd2-9f40-886e81c709c9)
